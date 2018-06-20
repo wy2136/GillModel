@@ -1,6 +1,8 @@
 # GillModel
 A numerical model of atmospheric general circulation on the tropical beta-plane based on the Gill 1980 paper.
 
+![Gill_sym_i500.png](figs/Gill_sym_i500.png)
+
 ## Quickstart
 
 Git-clone the Matlab codes:
