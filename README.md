@@ -1,5 +1,5 @@
 # GillModel
-A numerical model of atmospheric general circulation on the tropical beta-plane based on the Gill 1980 paper.
+A numerical model of atmospheric general circulation on the tropical beta-plane based on the Gill 1980 paper. It is the solution to the #3 problem of the GFD final exam at Columbia University in 2008.
 
 ![Gill_sym_i500.png](figs/Gill_sym_i500.png)
 
