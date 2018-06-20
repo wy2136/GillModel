@@ -188,7 +188,7 @@ for ii = 1:Nt;
     end;
     drawnow
 end;
-print(gcf,'-depsc', [fname, '_i', num2str(ii)]);
+print(gcf,'-dpng', '-r300', [fname, '_i', num2str(ii)]);
 
 % plot the stream function or zonal mean flow in x-z and y-z cross section
 % in case 1 and case 2 (Gill cases).
@@ -215,5 +215,5 @@ if icase==1||icase==2;
     title('u');
     xlabel('y'); ylabel('z');
     set(gca,'ytick',[0 z(end)],'yticklabel',{'0','z'});
-    print(gcf,'-depsc', [fname, '_i', num2str(ii), '_CrossSection']);
+    print(gcf,'-dpng', '-r300', [fname, '_i', num2str(ii), '_CrossSection']);
 end;
