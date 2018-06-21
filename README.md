@@ -13,6 +13,17 @@ Open Matlab and run the model:
 
     run
 
+## Examples
+
+* [Symmetric Heating](figs/Gill_sym.gif)
+* [Asymmetric Heating](figs/Gill_asym.gif)
+* [Symmetric + Asymmetric Heating](figs/Gill_sym_asym.gif)
+* [Kelvin Wave](figs/KelvinWave.gif)
+* [Free Wave Propogation of Gaussian-shape Initial Condition](figs/GaussPert.gif)
+* [Matsuno Heating](figs/MatsunoHeating.gif)
+* [Symmetric Heating with Gaussian shape in zonal direction](figs/Gill_sym_2.gif)
+* [Delta Heating at y=1](figs/Gill_sym_delta.gif)
+
 ## References
 
 Gill, A. E. (1980), Some simple solutions for heat‐induced tropical circulation. Q.J.R. Meteorol. Soc., 106: 447-462. doi:10.1002/qj.49710644905
