@@ -26,4 +26,4 @@ Open Matlab and run the model:
 
 ## References
 
-Gill, A. E. (1980), Some simple solutions for heat‐induced tropical circulation. Q.J.R. Meteorol. Soc., 106: 447-462. doi:10.1002/qj.49710644905
+Gill, A. E. (1980), [Some simple solutions for heat‐induced tropical circulation](https://doi.org/10.1002/qj.49710644905). Q.J.R. Meteorol. Soc., 106: 447-462. doi:10.1002/qj.49710644905
